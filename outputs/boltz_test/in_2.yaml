@@ -1,0 +1,11 @@
+properties:
+- affinity:
+    binder: L0
+sequences:
+- protein:
+    id: P0
+    sequence: MKTAYIAKQRQISFVKSHFSRQDILDAVRDTDTVPQLVTAVLLAPEDYLMRLVASA
+- ligand:
+    id: L0
+    smiles: CC(=O)O
+version: 1
